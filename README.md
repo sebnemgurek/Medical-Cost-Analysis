@@ -1,7 +1,9 @@
 # Medical-Cost-Analysis
 
+Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 ## Aim
-### Predict insurance costs
+#### Predict insurance costs
 
 ## Variables
 
