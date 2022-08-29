@@ -21,3 +21,8 @@ Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
  
  charges: Individual medical costs billed by health insurance
 
+
+# Test RKARE
+Modelin bağımsız değişkenlerin bağımlı değişkeni açıklama yüzdesi  %84 dir. 
+
+# Test RMSE:4251.28
